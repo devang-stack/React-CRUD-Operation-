@@ -92,6 +92,7 @@ class AddForm extends Component {
                     this.setState({ dir: dir })
           }
 
+          
           render() {
                     return (
                               <div className="col-md-6">
